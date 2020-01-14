@@ -8317,7 +8317,7 @@ button.bg-dark:focus {
 }
 
 .font-weight-bold {
-  font-weight: 700 !important;
+  font-weight: 500 !important;
 }
 
 .font-italic {
@@ -8671,7 +8671,7 @@ a.theme-btn-on-bg:hover, a.theme-btn-on-bg:focus, a.theme-btn-on-bg:active, .the
 }
 
 .resume-skill-name {
-  font-size: 0.8125rem;
+  font-size: 0.82rem;
   color: #434E5E;
 }
 
